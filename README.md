@@ -20,10 +20,10 @@ Essa é uma aplicação com base em Machine Learning para verificar o estado de 
 As ferramentas e frameworks utilizados no desenvolvimento
 
 <a title="Flutter" href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="flutter" width="60" height="60"/> 
+    <img src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" alt="flutter" width="60" height="60"/> 
 </a>
 <a title="dart" href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" width="60" height="60"/> 
+    <img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="dart" width="60" height="60"/> 
 </a>
 <a title="custom vison" href="https://www.customvision.ai/" target="_blank" rel="noreferrer"> 
     <img src="https://connectoricons-prod.azureedge.net/releases/v1.0.1481/1.0.1481.2460/cognitiveservicescustomvision/icon.png" alt="custom vision" width="60" height="60"/> 
