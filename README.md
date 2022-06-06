@@ -1,7 +1,7 @@
 # FairFax Seguro Auto
 
-![online documentation](https://media.giphy.com/media/c0N66cY9ESIy9oT0yx/giphy.gif)
-![figi](https://media.giphy.com/media/9nAh7u6lAX8LnGZRm7/giphy.gif)
+![example of app running](https://media.giphy.com/media/c0N66cY9ESIy9oT0yx/giphy.gif)
+
 
 Essa é uma aplicação com base em Machine Learning para verificar o estado de conservação (ou até mesmo acompanhar a existência) do bem assegurado para aquisição e acionamento de seguros.
 
