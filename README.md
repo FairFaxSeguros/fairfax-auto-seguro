@@ -9,11 +9,16 @@ Por meio do app desenvolvido em flutter, conseguimos capturar uma foto do veícu
 
 ## como foi feito?
 
-Nossa triagem foi feita, utilizando um serviço em cloud, de alta disponibilidade, da microsoft, chamado [Custon Vision AI](https://www.customvision.ai/), onde lá na plataforma, temos um projeto nosso com um banco de imagens de carros batidos ou carros integros. e assim treinamos um modelo de Deep Learning,  que identifica os padrões e assim determina se um carro está batido ou não.
+Nossa triagem foi feita, utilizando um serviço em cloud, de alta disponibilidade, da microsoft, chamado [Custon Vision AI](https://www.customvision.ai/), onde lá na plataforma, temos um projeto nosso com um banco de imagens de carros batidos ou carros integros. 
+Assim treinamos um modelo de Deep Learning, que identifica os padrões e assim determina se um carro está batido ou não.
 
-<a title="plataforma" href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/35856303/172084043-2de788d7-ac38-45b5-b4fb-db9c62cfcd4b.png" alt="plataforma" width="600" height="300"/> 
-</a>
+### Imagem da plataforma custom vision
+![Imagem da plataforma custom vision](https://user-images.githubusercontent.com/35856303/172084043-2de788d7-ac38-45b5-b4fb-db9c62cfcd4b.png)
+
+### Imagem de exemplo de requisição e resposta da api rest
+![Imagem de exemplo de requisição e resposta da api rest](https://user-images.githubusercontent.com/35856303/172085184-cc18f57f-907f-4a44-9f08-416ad1d0fcab.png)
+
+
 
 
 O próximo passo foi capturar as imagens via aplicativo flutter, e envia-las para o backend, assim recebemos uma resposta, do valor em cima do modelo treinado, quanta similaridade ela possui em relação ao modelo de carro batido, ou de carro integro.
