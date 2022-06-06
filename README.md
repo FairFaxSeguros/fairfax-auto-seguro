@@ -22,7 +22,7 @@ As ferramentas e frameworks utilizados no desenvolvimento
 </a>
 
 
-## como executar o projeto
+## Como executar o projeto
 
 Após ter o [Flutter instalado na sua máquina](https://flutter.dev/)
 
@@ -38,7 +38,7 @@ vale salientar que o tipo de tag foi definido entre ok ou batido, tendo uma regr
 
 caso seja feito isso a aplicação rodará perfeitamente.
 
-## como foi feito?
+## Como foi feito?
 
 Nossa triagem foi feita, utilizando um serviço em cloud, de alta disponibilidade, da microsoft, chamado [Custon Vision AI](https://www.customvision.ai/), onde lá na plataforma, criamos um projeto nosso com um banco de imagens de carros batidos ou carros integros, de nossa origem. 
 o proximo passo foi treinarmos um modelo de Deep Learning, que identifica os padrões e assim determina se um carro está batido ou não, e publicar a sua api para o app client consumir.
